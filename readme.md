@@ -59,7 +59,7 @@ keyfunc_test2(str){
   ```
 
 2. 在`Capslock+settings.ini` `[keys]`设置：`caps_q=keyfunc_listary()`，保存，按下`Capslock+F5`重载，搞定。
-![caps_q Listary](http://dn-cjk.qbox.me/caps_listary.gif)
+[caps_q Listary](http://dn-cjk.qbox.me/caps_listary.gif)
 
 ## 3.那你原有的功能我想改怎么改？
 `Capslock+.ahk`是入口文件，其他所有依赖文件都扔`/lib`里了，各文件说明如下：
